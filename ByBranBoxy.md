@@ -1,4 +1,4 @@
-_G.scriptName = "Code Gui"
+_G.scriptName = "Psycho City Gui"
 		-- inicia la funcion 
 		function Systema()
 			local player = game.Players.LocalPlayer
